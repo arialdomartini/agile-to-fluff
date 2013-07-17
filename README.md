@@ -5,6 +5,7 @@ Got enough of hype about Agile? Replace any reference to *Agile* with *Fluff*.
 
 *agile-to-fluff* is a Chrome extension that replaces every occurrence of words related to *Agile*  with *fluff*.
 
+The code and the idea has been widely copied form [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) by Steven Frank
 
 Download
 ========
