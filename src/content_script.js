@@ -12,11 +12,7 @@ String.prototype.fuffify = function () {
 
 		['Kanban', 'Fluff'],
 		['kanban', 'fluff'],
-		['KANBAN', 'FLUFF'],
-
-		['Lean', 'Fluff'],
-		['lean', 'fluff'],
-		['LEAN', 'FLUFF']
+		['KANBAN', 'FLUFF']
 	];
 	
 	var v = this;
